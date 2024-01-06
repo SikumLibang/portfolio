@@ -29,7 +29,7 @@ body {
 
 .box:active {
     background-color: lawngreen;
-    color: rgb(255, 255, 255);
+    color: rgb(255, 250, 250);
     border-color: plum;
     border: 3px solid plum;
     border-radius: 10px;
